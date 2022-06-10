@@ -19,9 +19,9 @@
 - [bearable-windows-experience](https://github.com/Bobronium/bearable-windows-experience) — A lifeline for people dealing with Windows, especially after using macOS.
 - [ahk-macos-keyboard-layout](https://github.com/Bobronium/ahk-macos-keyboard-layout) — macOS keyboard layout and shortcuts on Windows.
 
-## My contributions
+## My PRs
 
-- [all](https://github.com/pulls?q=is%3Apr+author%3ABobronium+archived%3Afalse+is%3Amerged)
+- [all merged](https://github.com/pulls?q=is%3Apr+author%3ABobronium+archived%3Afalse+is%3Amerged)
 - [samuelcolvin/pydantic](https://github.com/pulls?q=is%3Apr+author%3ABobronium+archived%3Afalse+is%3Amerged+repo%3Asamuelcolvin%2Fpydantic)
 
 
