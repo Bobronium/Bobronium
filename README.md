@@ -1,5 +1,14 @@
 #### Professional pseudocoder 🐍
 
+
+## My contributions
+- [samuelcolvin/pydantic](https://github.com/pulls?q=is%3Apr+author%3ABobronium+archived%3Afalse+is%3Amerged+repo%3Asamuelcolvin%2Fpydantic)
+- [all merged PRs](https://github.com/pulls?q=is%3Apr+author%3ABobronium+archived%3Afalse+is%3Amerged)
+
+
+
+
+
 ## My repositories
 
 ### Python
@@ -18,12 +27,6 @@
 
 - [bearable-windows-experience](https://github.com/Bobronium/bearable-windows-experience) — A lifeline for people dealing with Windows, especially after using macOS.
 - [ahk-macos-keyboard-layout](https://github.com/Bobronium/ahk-macos-keyboard-layout) — macOS keyboard layout and shortcuts on Windows.
-
-## My PRs
-
-- [all merged](https://github.com/pulls?q=is%3Apr+author%3ABobronium+archived%3Afalse+is%3Amerged)
-- [samuelcolvin/pydantic](https://github.com/pulls?q=is%3Apr+author%3ABobronium+archived%3Afalse+is%3Amerged+repo%3Asamuelcolvin%2Fpydantic)
-
 
 
 <!--
